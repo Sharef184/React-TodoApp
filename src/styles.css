@@ -54,7 +54,7 @@ body {
 .new-item-form input {
   outline: none;
   border: 1px solid hsl(200, 100%, 40%);
-  background: hsl(200, 40%, 30%);
+  background: hsl(195, 40%, 30%);
   border-radius: 0.25em;
   padding: 0.25em 0.5em;
   color: hsl(200, 100%, 90%);
